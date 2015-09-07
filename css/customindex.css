@@ -18,6 +18,7 @@ body
 
 .col-title {
 	text-align: center;
+	color: #BF5700;
 }
 
 
@@ -30,7 +31,7 @@ body
 	text-align: center;
 	text-shadow: 0 0 10px #000;
     color: #fff;
-	font-size: 2vw;
+	font-size: 3vw;
 	line-height:; 2em;
 }
 
@@ -38,14 +39,14 @@ body
 	color: #BF5700;
 	text-align: center;
 	text-shadow: 0 0 10px #000;
-	font-size: 2vw;
+	font-size: 3vw;
 	line-height: 2em;
 
 }
 h1 {
 	color: #BF5700;
 	text-align: center;
-	font-size: 7vw;
+	font-size: 8.5vw;
 }
 
 p {
