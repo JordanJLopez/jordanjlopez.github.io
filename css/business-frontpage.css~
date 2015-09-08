@@ -11,7 +11,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
-    height: 400px;
+    height: auto;
     background: url('forrest.png') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -32,4 +32,14 @@ body {
 
 footer {
     margin: 50px 0;
+    text-align: right;
+
+}
+
+.footertext {
+    font-size: .8vw;
+}
+
+.h2 {
+    text-align: center;
 }
