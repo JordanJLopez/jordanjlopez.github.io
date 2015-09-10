@@ -73,6 +73,11 @@ p {
 	font-size: 1.5em;
 }
 
+.navcontainer {
+  margin-left: 2.0em;
+  margin-right: 2.0em;
+}
+
 .container {
 	witdh: auto;
 	margin-left: auto;
