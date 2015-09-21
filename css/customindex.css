@@ -30,6 +30,22 @@ hr{
   height: 1vh;
 }
 
+.proj-img {
+
+  max-height: 10em;
+  padding-top: 3%;
+  width: auto;
+  font-size: 16px;
+  font-size: .7em;
+}
+
+img {
+  max-height: 6em;
+  border: 1px solid #021a40;
+  width: auto;
+  height: auto\9;
+}
+
 
 .col-title {
 	text-align: center;
